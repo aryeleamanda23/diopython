@@ -1,0 +1,3 @@
+ID: 1 - Msg: Olá Ana! Comece a poupar hoje mesmo.
+ID: 2 - Msg: Olá Bruno! Investimento Premium disponível para você.
+ID: 3 - Msg: Olá Carla! Comece a poupar hoje mesmo.
